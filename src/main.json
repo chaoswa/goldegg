@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/myprize/main",
+    "pages/detail/main",
+    "pages/cash/main",
+    "pages/web/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "砸金蛋",
+    "navigationBarTextStyle": "wihte"
+  }
+}
